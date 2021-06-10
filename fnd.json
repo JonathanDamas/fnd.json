@@ -1,0 +1,32 @@
+[
+  {
+    "key" : "BH",
+    "name" : "Belo Horizonte",
+    "latitude" : -19.942578,
+    "longitude" : -44.011509
+  },
+  {
+    "key" : "LV",
+    "name" : "Lavras",
+    "latitude" : -21.200102,
+    "longitude" : -45.118845
+  },
+  {
+    "key" : "TC",
+    "name" : "Tres Coracoes",
+    "latitude" : -21.667233,
+    "longitude" : -45.313889
+  },
+  {
+    "key" : "PA",
+    "name" : "Pouso Alegre",
+    "latitude" : -22.238981,
+    "longitude" : -45.878716
+  },
+  {
+    "key" : "SP",
+    "name" : "São Paula",
+    "latitude" : -23.493729,
+    "longitude" : -46.809649
+  }
+]
